@@ -1,4 +1,5 @@
 {
+  
   "expo": {
     "name": "DMCE_TechniQ",
     "slug": "DMCE_TechniQ",
@@ -14,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
